@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bienvenue</name>
+   <tag></tag>
+   <elementGuidId>7d3e9358-db78-4e57-a607-6c87a9f5ac7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-ladom-blue2.text-white.py-4.mb-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e4a1e7c-5de8-4d78-9e10-334f1f86efed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-ladom-blue2 text-white py-4 mb-4</value>
+      <webElementGuid>77a2aa43-6868-4449-b8ac-b73206cc6568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bienvenue sur le portail LADOM</value>
+      <webElementGuid>1b2f7172-8a10-49de-91ee-8596a8a29088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;bg-ladom-blue2 text-white py-4 mb-4&quot;]</value>
+      <webElementGuid>fffe8d28-72a5-4169-b77b-67546a80db82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div</value>
+      <webElementGuid>ed20886c-9bac-4053-ae1f-1ea2437a4362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::div[3]</value>
+      <webElementGuid>5d1e78c6-6d5c-40e1-b898-082956917766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Politique RH'])[2]/following::div[5]</value>
+      <webElementGuid>51378c5a-b709-4651-9a7a-88dbe12b3c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toutes les aides'])[1]/preceding::div[2]</value>
+      <webElementGuid>cdd39273-b45e-4831-aa2b-97ccf5080847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>209f2bd1-ed44-496b-92f4-fecfef4a0dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bienvenue sur le portail LADOM' or . = 'Bienvenue sur le portail LADOM')]</value>
+      <webElementGuid>397ceb7b-fbc0-43a4-a928-5faff869e7d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Demande de prise de poste</name>
+   <tag></tag>
+   <elementGuidId>1f022a34-aa0a-40ae-bd4e-797c00e66c72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div/a[6]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>df446fad-8a1e-4154-9037-f23485144af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-32 md:h-48 w-full object-cover</value>
+      <webElementGuid>c6a7ab59-023a-487d-9cdf-62e6efe0f8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/beneficiaire/categories/pdp.jpg</value>
+      <webElementGuid>bfd04c9e-c337-4086-890f-bd26825bacdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Nouvel emploi</value>
+      <webElementGuid>b93866d4-f70c-4491-85ad-30e4db823e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;flex flex-col gap-2 px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 justify-items-center my-4 mx-2 md:mx-0&quot;]/a[@class=&quot;w-full&quot;]/div[@class=&quot;h-full bg-white flex flex-col border border-gray-200 hover:bg-gray-100&quot;]/img[@class=&quot;h-32 md:h-48 w-full object-cover&quot;]</value>
+      <webElementGuid>c9052005-cf94-4b2f-9094-4d5eb9698da3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div/a[6]/div/img</value>
+      <webElementGuid>af05128f-7765-4ad2-98eb-50f9d966e69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Nouvel emploi']</value>
+      <webElementGuid>90f7d657-ac90-4dbe-be0f-726df644fa7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]/div/img</value>
+      <webElementGuid>d9b48a2e-e677-4ffe-91ed-d66cbe67e48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/beneficiaire/categories/pdp.jpg' and @alt = 'Nouvel emploi']</value>
+      <webElementGuid>c5709846-005d-43d8-ad4e-a1e3b2f176eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

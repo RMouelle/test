@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Je souhaite dcouvrir les dispositifs</name>
+   <tag></tag>
+   <elementGuidId>ff3adc15-15bc-4a5a-a01c-29a41448e7f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45fd7177-5703-4832-a69b-c4a6e82a6dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>min-h-32 bg-white grid grid-cols-[minmax(auto,80px)_1fr] gap-4 p-4 relative cursor-pointer hover:bg-gray-100</value>
+      <webElementGuid>fcd88ba4-d55c-449e-8e66-b4f3169aaa42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Je souhaite découvrir les dispositifs</value>
+      <webElementGuid>4a8c7a2e-0cf6-462a-aa2b-4c984a520bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;mx-auto py-16&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-6 mb-8&quot;]/a[@class=&quot;border border-gray-300 border-b-0 shadow-[0_4px_0_0_rgba(29,78,216,1)]&quot;]/div[@class=&quot;min-h-32 bg-white grid grid-cols-[minmax(auto,80px)_1fr] gap-4 p-4 relative cursor-pointer hover:bg-gray-100&quot;]</value>
+      <webElementGuid>580bb456-6e19-46c2-acfd-3e5b37003957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div/div[2]/a/div</value>
+      <webElementGuid>136825ea-5a99-4690-8eb7-b77825886373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::div[7]</value>
+      <webElementGuid>487e7237-4103-4f61-b730-4a3100bb8151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Politique RH'])[2]/following::div[9]</value>
+      <webElementGuid>d1a51ae1-e6d4-445b-8a28-037ca94c3722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/a/div</value>
+      <webElementGuid>41cc47f6-26d5-4ba2-8d3a-be67e45d3012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Je souhaite découvrir les dispositifs' or . = 'Je souhaite découvrir les dispositifs')]</value>
+      <webElementGuid>83480ad4-4b23-461b-a6b8-7d34f19181cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

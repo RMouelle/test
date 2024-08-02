@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Validation</name>
+   <tag></tag>
+   <elementGuidId>d5d6023f-f796-47c1-b01b-7c52f9a56793</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Aide au Transport de Corps'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0aa522f0-6051-4945-bb62-8ba87f4f161a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-3.5 h-3.5 ms-2</value>
+      <webElementGuid>5b003dc9-221b-49dc-a0a2-6fa0384bd39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>309e37ba-27a0-465d-870f-817863aa98da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>86be5cf4-5e66-4172-a993-a06cd915c632</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>e6dc4af8-d094-4238-a2ed-19bd762cf24a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 10</value>
+      <webElementGuid>374be408-fdd5-460c-9dd2-ef7fc769c552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;flex flex-col gap-2 px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 justify-items-center my-4 mx-2 md:mx-0&quot;]/a[@class=&quot;w-full&quot;]/div[@class=&quot;h-full bg-white flex flex-col border border-gray-200 hover:bg-gray-100&quot;]/div[@class=&quot;p-5 grow flex flex-col justify-between&quot;]/div[@class=&quot;self-end inline-flex items-center px-3 py-2 text-sm font-medium text-center text-ladom-blue rounded-lg transition-transform hover:translate-x-1 focus:ring-4 focus:outline-none focus:ring-blue-300&quot;]/svg[@class=&quot;w-3.5 h-3.5 ms-2&quot;]</value>
+      <webElementGuid>07cf798f-24cc-4cb3-8eea-c5ebbef19102</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Aide au Transport de Corps'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>398d616d-1837-42bc-b252-6d8140e1a80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Oral de Concours'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>042c508c-42cc-4dd1-bc10-83fa3a3f4d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande de prise de poste'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>f5ee49f4-e492-4034-b0b2-3f13c76362f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
