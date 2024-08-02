@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Je souhaite dcouvrir les dispositifs_w-_d45247</name>
+   <tag></tag>
+   <elementGuidId>a02c4c7d-ffd4-4e14-8000-5266ffa8d483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Je souhaite découvrir les dispositifs'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>0e68ad68-ac64-46ff-b758-b7ea61ed32bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-3.5 h-3.5 ms-2</value>
+      <webElementGuid>6a57aab0-72c1-4129-8607-277a4cdbb973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>79cf01d0-9046-46cb-8978-1b29f65bdb7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e0dbe556-dd75-4e37-8647-a5b8b34c784f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>0a253d63-7451-44e9-8a9d-730988aae789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 10</value>
+      <webElementGuid>1499c80e-7262-471a-b944-181757ae4203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;mx-auto py-16&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-6 mb-8&quot;]/a[@class=&quot;border border-gray-300 border-b-0 shadow-[0_4px_0_0_rgba(29,78,216,1)]&quot;]/div[@class=&quot;min-h-32 bg-white grid grid-cols-[minmax(auto,80px)_1fr] gap-4 p-4 relative cursor-pointer hover:bg-gray-100&quot;]/div[@class=&quot;absolute bottom-3 right-3 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-ladom-blue rounded-lg transition-transform hover:translate-x-1 focus:ring-4 focus:outline-none focus:ring-blue-300&quot;]/svg[@class=&quot;w-3.5 h-3.5 ms-2&quot;]</value>
+      <webElementGuid>97ec69f3-0c5e-433d-ac3b-d58f4adbdd4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je souhaite découvrir les dispositifs'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>63368ad9-34d7-44e6-8c8f-215f6dddd26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>eeedd350-69d5-4990-a2e2-4b0e5c267603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je me connecte'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>c7dc1027-a9f8-4620-823a-0f821134f876</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
