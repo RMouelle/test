@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Je me connecte</name>
+   <tag></tag>
+   <elementGuidId>897c2907-424d-43c1-95b6-f672548e4506</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div/div/div[2]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fbd4bfaf-9524-4c13-adc5-de3ab247d3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>256b2c52-2bba-48ec-b907-34c3df70ad8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border border-gray-300 border-b-0 shadow-[0_4px_0_0_rgba(29,78,216,1)] </value>
+      <webElementGuid>92ef49f3-22d6-40bd-8381-62080cf61a25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Je me connecte</value>
+      <webElementGuid>c15e3a3c-91b1-41c1-83b1-6976c0021f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;mx-auto py-16&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-[repeat(auto-fill,minmax(300px,1fr))] gap-6 mb-8&quot;]/a[@class=&quot;border border-gray-300 border-b-0 shadow-[0_4px_0_0_rgba(29,78,216,1)]&quot;]</value>
+      <webElementGuid>f0468ae3-b42b-46ea-aaf8-8349614686e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div/div/div[2]/a[3]</value>
+      <webElementGuid>02075823-9fc1-498c-ac6e-1665feab427d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je souhaite découvrir les dispositifs'])[1]/following::a[2]</value>
+      <webElementGuid>e1d56fd0-2188-4d7a-9e62-4960149370bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[3]/preceding::a[1]</value>
+      <webElementGuid>8677a801-6455-4d8b-8d89-740db4d129d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/login')])[2]</value>
+      <webElementGuid>b753490a-3383-4931-acf9-7edd9170fe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[3]</value>
+      <webElementGuid>42cfd148-175d-4b44-b20d-4a87ef7664cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login' and (text() = 'Je me connecte' or . = 'Je me connecte')]</value>
+      <webElementGuid>1fd0880d-772b-41ff-9aa5-6b32d07867c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
