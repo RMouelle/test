@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_unionEuropeene</name>
+   <tag></tag>
+   <elementGuidId>c24c483c-3a44-4809-897b-60423bcb0c45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ml-8 > img.max-h-10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@alt='Logo RF LADOM'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f088dbd0-d952-47d1-a2e8-29dc3f3a1d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/beneficiaire/UE_POS.png</value>
+      <webElementGuid>eb16d3d4-baf7-4b10-a37f-e71243a572c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo RF LADOM</value>
+      <webElementGuid>acd5a239-af37-4155-b2dc-a6a08b444e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-h-10</value>
+      <webElementGuid>24903638-1937-40cd-925b-75c037dac09a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 items-center py-6&quot;]/div[@class=&quot;grid grid-cols-2 mb-4&quot;]/a[@class=&quot;ml-8&quot;]/img[@class=&quot;max-h-10&quot;]</value>
+      <webElementGuid>f5ae33d2-68c7-4da6-b49b-1c9b4494f30c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Logo RF LADOM'])[3]</value>
+      <webElementGuid>ad8f8940-d48e-4b82-ac2c-80c6cbd6d637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div[2]/div/a/img</value>
+      <webElementGuid>f4a2a307-570c-4014-a164-3e2821f83fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/beneficiaire/UE_POS.png' and @alt = 'Logo RF LADOM']</value>
+      <webElementGuid>62931be0-f696-4d57-8676-5c69c0cc4203</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

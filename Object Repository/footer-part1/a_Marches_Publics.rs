@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Marches_Publics</name>
+   <tag></tag>
+   <elementGuidId>1c915da4-1398-489d-950c-de9cdee7f7c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Marchés publics')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f0f582a-edea-45aa-8a15-8497308b6643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ladom.fr/marches-publics/</value>
+      <webElementGuid>af8c1c31-ce3f-4afc-83ac-5be07c67208c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-6</value>
+      <webElementGuid>f4f451bc-3890-424f-8b11-a848294cdf9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marchés publics</value>
+      <webElementGuid>8a49fadb-34c9-48cc-b48b-dc26534cb129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gapx-4 border-b border-gray-400 text-gray-600 text-lg py-8&quot;]/div[@class=&quot;flex flex-col&quot;]/a[@class=&quot;mb-6&quot;]</value>
+      <webElementGuid>113f3c62-7154-4098-a9f4-d4336d2af910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Marchés publics')]</value>
+      <webElementGuid>aa0a010f-0bcc-4fbb-8618-9e5920eaf309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espace Presse'])[1]/following::a[2]</value>
+      <webElementGuid>162e6d17-af13-49c8-a64a-d26f12cdbedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registre des actes administratifs'])[1]/preceding::a[1]</value>
+      <webElementGuid>ee9054c2-10ce-4dc3-a3ea-d270fbe5b4b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plan du site'])[1]/preceding::a[2]</value>
+      <webElementGuid>4b245a7e-bfa4-4d1d-92d0-2fa0193b31f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marchés publics']/parent::*</value>
+      <webElementGuid>5d12bdcf-bab2-4f3c-9b90-cbcf3d9ab356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ladom.fr/marches-publics/')]</value>
+      <webElementGuid>06b36d08-5b37-4fa5-95ba-007f7dcf8375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div[3]/a[2]</value>
+      <webElementGuid>dd624154-2c1c-4767-a425-5a205804adf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ladom.fr/marches-publics/' and (text() = 'Marchés publics' or . = 'Marchés publics')]</value>
+      <webElementGuid>54f26b7a-0c27-47a7-9ea8-5b3729f42d74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

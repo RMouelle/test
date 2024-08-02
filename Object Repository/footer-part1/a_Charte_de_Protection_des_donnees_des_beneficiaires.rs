@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Charte_de_Protection_des_donnees_des_beneficiaires</name>
+   <tag></tag>
+   <elementGuidId>288ff0e7-cf42-427c-876f-3750360cc16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Charte de Protection des données des bénéficiaires')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c350ce5d-202c-490f-9849-e024bc8272c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ladom.fr/mentions-legales/protection-des-donnees/</value>
+      <webElementGuid>3a4ef29b-64eb-4ad7-83ec-3873505abd98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-6</value>
+      <webElementGuid>b98d1aca-40b5-4076-88e3-3f4bc0206152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Charte de Protection des données des bénéficiaires</value>
+      <webElementGuid>e722d072-6f7f-4e32-a9fb-d5e23380dc5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gapx-4 border-b border-gray-400 text-gray-600 text-lg py-8&quot;]/div[@class=&quot;flex flex-col&quot;]/a[@class=&quot;mb-6&quot;]</value>
+      <webElementGuid>de09a294-4a3e-45ab-96ad-1afcd57c9c2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Charte de Protection des données des bénéficiaires')]</value>
+      <webElementGuid>03aedee6-1a30-4460-9ec7-9186dc6d464b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mentions légales'])[1]/following::a[1]</value>
+      <webElementGuid>c36f3177-30b9-4883-b9a3-2165c5a0fa45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[3]/following::a[2]</value>
+      <webElementGuid>33ce82bb-cb6d-4574-8287-1e7c165e1381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espace Presse'])[1]/preceding::a[1]</value>
+      <webElementGuid>742ddea1-6292-4cd9-9546-22cd6d819c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Charte de Protection des données des bénéficiaires']/parent::*</value>
+      <webElementGuid>5dc9a293-4946-412e-bf85-35f99a8ebe0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ladom.fr/mentions-legales/protection-des-donnees/')]</value>
+      <webElementGuid>54640a55-0908-4923-8afd-18cde262fbec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div[2]/a</value>
+      <webElementGuid>7b438b29-bfa2-4049-af39-b6ee0520799e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ladom.fr/mentions-legales/protection-des-donnees/' and (text() = 'Charte de Protection des données des bénéficiaires' or . = 'Charte de Protection des données des bénéficiaires')]</value>
+      <webElementGuid>2933e15e-8c37-4454-ba69-251bb7425cce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

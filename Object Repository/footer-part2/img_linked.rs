@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_linked</name>
+   <tag></tag>
+   <elementGuidId>710f6439-cc50-4776-8a7c-00cab5eb05d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ml-8 > img[title=&quot;linkedin_header&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@title='linkedin_header'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8a55554e-d655-4cf4-a6db-3ff3ad671a66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>linkedin_header</value>
+      <webElementGuid>6529295f-c9d0-474d-abe5-d43db7a749b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/social/linkedin_header.svg</value>
+      <webElementGuid>745e1880-d768-44ee-8b23-e880cde6cc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 items-center py-6&quot;]/div[@class=&quot;flex items-center justify-around md:justify-end&quot;]/a[@class=&quot;ml-8&quot;]/img[1]</value>
+      <webElementGuid>1e6c8c5a-7b51-441b-9444-4928da85f307</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@title='linkedin_header'])[2]</value>
+      <webElementGuid>f8d6ef1f-48c7-43ab-91c0-f2149fcc51d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[4]/img</value>
+      <webElementGuid>4076bd6f-61d2-4277-868b-b04c01c7d4db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'linkedin_header' and @src = '/social/linkedin_header.svg']</value>
+      <webElementGuid>4a91560a-6bb6-4cbf-8bf3-f2a1cfde0d67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ministerDeInterieur</name>
+   <tag></tag>
+   <elementGuidId>2eb28b09-3bcd-48a5-90c1-0bb3db3b9ca8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.bg-white.p-2.max-h-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt=&quot;Logo Ministère de l'intérieur des &quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c246cb73-4093-4b5b-81e4-95e7d75e9fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/beneficiaire/MINISTERE.png</value>
+      <webElementGuid>940505b4-8b0d-45fd-9d5b-881004a948d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo Ministère de l'intérieur des </value>
+      <webElementGuid>ca3f4c1a-0ff7-471d-a7c9-49eb6cae5388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white p-2 max-h-20</value>
+      <webElementGuid>133cef90-0d22-40c7-b93c-acb9324e0a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 items-center py-6&quot;]/div[@class=&quot;grid grid-cols-2 mb-4&quot;]/a[@class=&quot;ml-8&quot;]/img[@class=&quot;bg-white p-2 max-h-20&quot;]</value>
+      <webElementGuid>c629540e-9a49-4345-8639-27008299f1e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Logo Ministère de l'intérieur des &quot;]</value>
+      <webElementGuid>7ef4a060-25c6-41c7-8477-43e6303a0eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div[2]/div/a[2]/img</value>
+      <webElementGuid>01eeb9c5-8858-4d69-ad72-a37631769b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/beneficiaire/MINISTERE.png' and @alt = concat(&quot;Logo Ministère de l&quot; , &quot;'&quot; , &quot;intérieur des &quot;)]</value>
+      <webElementGuid>9e432f01-9197-41b3-9b12-2709296d5260</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
