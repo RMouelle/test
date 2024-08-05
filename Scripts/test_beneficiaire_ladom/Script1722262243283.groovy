@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('beneficiaire.ladom.fr')
 
 WebUI.callTestCase(findTestCase('Test Cases/header'), null)
-WebUI.callTestCase(findTestCase('Test Cases/menu_1 vie etudiante'), null)
+WebUI.callTestCase(findTestCase('null'), null)
 WebUI.callTestCase(findTestCase('Test Cases/welcome to ladom'), null)
 
  
