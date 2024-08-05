@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_dOral de Concours</name>
+   <tag></tag>
+   <elementGuidId>79d36f41-89a3-4a2e-928d-a9399af65b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Oral de Concours'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a6975fa7-26d3-431e-8f07-953daa6a1612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-3.5 h-3.5 ms-2</value>
+      <webElementGuid>77d3c9a7-d2e7-4c74-858e-35c6e886701f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d3e6842b-98ce-4a42-9229-bfb78f600629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>653fa661-277a-4019-8885-3055c0b0322a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>db460d29-0fbf-4910-b89d-9988e4190d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 10</value>
+      <webElementGuid>bfb6ea2a-8c21-4d85-a0aa-78def8a93e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;flex flex-col gap-2 px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 justify-items-center my-4 mx-2 md:mx-0&quot;]/a[@class=&quot;w-full&quot;]/div[@class=&quot;h-full bg-white flex flex-col border border-gray-200 hover:bg-gray-100&quot;]/div[@class=&quot;p-5 grow flex flex-col justify-between&quot;]/div[@class=&quot;self-end inline-flex items-center px-3 py-2 text-sm font-medium text-center text-ladom-blue rounded-lg transition-transform hover:translate-x-1 focus:ring-4 focus:outline-none focus:ring-blue-300&quot;]/svg[@class=&quot;w-3.5 h-3.5 ms-2&quot;]</value>
+      <webElementGuid>38c69539-4639-427c-91b5-560e6ff9a53a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Oral de Concours'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a54a1db1-d8e7-423b-943e-b7daddc8a460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande de prise de poste'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>934b82a5-e124-4c9d-90d6-794d452acaa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[3]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>a5ba508f-8bc0-467c-a8a8-b8fcd5f1114e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

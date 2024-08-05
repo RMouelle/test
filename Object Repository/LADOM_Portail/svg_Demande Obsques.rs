@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Demande Obsques</name>
+   <tag></tag>
+   <elementGuidId>20e3566d-9b79-49a8-8217-51f7fcb29454</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Aide aux Obsèques'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a7e28ae2-ee71-401b-a174-2bfdd2c56f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-3.5 h-3.5 ms-2</value>
+      <webElementGuid>286c2f60-fe4f-4880-b645-efd4c500d3ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4fc96ce2-be66-42dc-82d8-9ef92bbf2b87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>77729cca-f06b-4097-8553-5049fff1cece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>2382614a-a811-41b1-950a-40cb56a72000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 10</value>
+      <webElementGuid>5827f8ba-b945-4641-b005-5a7367a1bc71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;flex flex-col gap-2 px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 justify-items-center my-4 mx-2 md:mx-0&quot;]/a[@class=&quot;w-full&quot;]/div[@class=&quot;h-full bg-white flex flex-col border border-gray-200 hover:bg-gray-100&quot;]/div[@class=&quot;p-5 grow flex flex-col justify-between&quot;]/div[@class=&quot;self-end inline-flex items-center px-3 py-2 text-sm font-medium text-center text-ladom-blue rounded-lg transition-transform hover:translate-x-1 focus:ring-4 focus:outline-none focus:ring-blue-300&quot;]/svg[@class=&quot;w-3.5 h-3.5 ms-2&quot;]</value>
+      <webElementGuid>8060d80e-a3ee-4c93-9e9c-c67786aa5c83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Aide aux Obsèques'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>b1d40c89-d646-4bd7-ba3b-634a3a0e1181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande de Passeport pour la Mobilité de la Formation Professionnelle'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>aba29c12-1107-41d5-b399-16876d8bb91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Aide au Transport de Corps'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>736911b6-0f99-45b0-9106-8f8518ce0b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

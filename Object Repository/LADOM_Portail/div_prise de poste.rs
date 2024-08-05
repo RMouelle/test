@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_prise de poste</name>
+   <tag></tag>
+   <elementGuidId>f0ca2e43-225e-4358-8860-9f4576a094ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div/a[6]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a8f375e-c4d4-42f6-9e02-8b39d4861f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-5 grow flex flex-col justify-between</value>
+      <webElementGuid>5d3d1f90-c469-4ee3-932c-02579b2c1a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demande de prise de poste</value>
+      <webElementGuid>5568b0f7-cb4a-4b95-9680-471688831f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;flex flex-col gap-2 px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 justify-items-center my-4 mx-2 md:mx-0&quot;]/a[@class=&quot;w-full&quot;]/div[@class=&quot;h-full bg-white flex flex-col border border-gray-200 hover:bg-gray-100&quot;]/div[@class=&quot;p-5 grow flex flex-col justify-between&quot;]</value>
+      <webElementGuid>1b295b39-6093-4b99-9efe-6da33cc2bc54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div/a[6]/div/div</value>
+      <webElementGuid>39a39fbf-c61e-42ea-8767-a34f884e2d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demande d’Oral de Concours'])[1]/following::div[3]</value>
+      <webElementGuid>e0eba5b5-6f1f-44c0-8caa-7f5f12ea77ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[3]/preceding::div[2]</value>
+      <webElementGuid>8b261c61-1914-459b-ae22-62452dc77e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]/div/div</value>
+      <webElementGuid>74dca796-2e33-4946-a0bc-5af2cf144f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Demande de prise de poste' or . = 'Demande de prise de poste')]</value>
+      <webElementGuid>f8e42b79-e5a6-45bb-9eb7-afe97baeb3c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

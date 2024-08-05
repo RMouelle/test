@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Demande aux Obseques</name>
+   <tag></tag>
+   <elementGuidId>425755b7-a5d8-4d4f-a263-dd347e236d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-content']/div[2]/div/a[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>42565626-0c40-454d-a36d-d1a9cafd1fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-32 md:h-48 w-full object-cover</value>
+      <webElementGuid>bf09c7e5-620a-449c-bf1e-369b653ad3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/beneficiaire/categories/fao.jpg</value>
+      <webElementGuid>f3c410fd-7fca-4460-98df-9fdfff48e294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Aide aux obsèques</value>
+      <webElementGuid>338557b5-5173-4f8d-b611-4a0e49193310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content&quot;)/div[@class=&quot;flex flex-col gap-2 px-4 mx-auto max-w-7xl&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 justify-items-center my-4 mx-2 md:mx-0&quot;]/a[@class=&quot;w-full&quot;]/div[@class=&quot;h-full bg-white flex flex-col border border-gray-200 hover:bg-gray-100&quot;]/img[@class=&quot;h-32 md:h-48 w-full object-cover&quot;]</value>
+      <webElementGuid>fa92e530-206f-4632-905b-3ce6085b75da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-content']/div[2]/div/a[2]/div/img</value>
+      <webElementGuid>76a89579-816a-417b-b431-b643eae1b1b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Aide aux obsèques']</value>
+      <webElementGuid>1d765dbe-8489-4431-941d-2ad5c7dfce27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/img</value>
+      <webElementGuid>51010d25-4f20-42ac-a976-6e2d6b32eaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/beneficiaire/categories/fao.jpg' and @alt = 'Aide aux obsèques']</value>
+      <webElementGuid>013115b6-6fae-4131-aaf5-3e04091771b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
