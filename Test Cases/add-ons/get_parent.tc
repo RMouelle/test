@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>get_parent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28d4cf2c-476e-4bc0-adb2-bdf41308003e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee6cdeac-5924-42c2-aaca-6b13c7d48045</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7c12b5a-8a3d-4214-bda0-a29a8098ca95</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>ee6cdeac-5924-42c2-aaca-6b13c7d48045</id>
+      <masked>false</masked>
+      <name>obj</name>
+   </variable>
+   <variable>
+      <defaultValue>1</defaultValue>
+      <description></description>
+      <id>e7c12b5a-8a3d-4214-bda0-a29a8098ca95</id>
+      <masked>false</masked>
+      <name>lvl</name>
+   </variable>
+</TestCaseEntity>
