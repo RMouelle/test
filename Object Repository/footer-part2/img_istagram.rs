@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_istagram</name>
+   <tag></tag>
+   <elementGuidId>67b60b6f-b05a-4586-8407-ff3abb7530e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ml-4 > img[title=&quot;instagram_header&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@title='instagram_header'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5ba94a2a-7724-42fb-9988-3394f7b67a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>instagram_header</value>
+      <webElementGuid>f7d35063-a802-4d56-872b-377010056f07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/social/instagram_header.svg</value>
+      <webElementGuid>b773e46e-ce85-4be2-82f3-5e963901fc21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 items-center py-6&quot;]/div[@class=&quot;flex items-center justify-around md:justify-end&quot;]/a[@class=&quot;ml-4&quot;]/img[1]</value>
+      <webElementGuid>c0009333-2bf8-489d-98ca-3200626048e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@title='instagram_header'])[2]</value>
+      <webElementGuid>9c6c01b0-e269-405d-91a5-435b2d00325b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div[2]/div[2]/a/img</value>
+      <webElementGuid>87702d58-68e2-46e3-811c-3a36ee18c318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'instagram_header' and @src = '/social/instagram_header.svg']</value>
+      <webElementGuid>791531db-0f69-47d3-8bfa-8881e5de264b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

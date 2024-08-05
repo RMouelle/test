@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Registre_des_actes_administratifs</name>
+   <tag></tag>
+   <elementGuidId>09733497-93ef-4338-8a89-0ca44555b13a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Registre des actes administratifs')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e863655-a58e-4956-91ae-26dc2db682a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ladom.fr/registre-administratif/</value>
+      <webElementGuid>fc5edc6d-0566-4773-aa17-f897a284210b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-6</value>
+      <webElementGuid>2fa64574-e1a9-4768-8299-3f58ec607829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registre des actes administratifs</value>
+      <webElementGuid>d5a08c5e-4560-45e4-b437-26f398eb85bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gapx-4 border-b border-gray-400 text-gray-600 text-lg py-8&quot;]/div[@class=&quot;flex flex-col&quot;]/a[@class=&quot;mb-6&quot;]</value>
+      <webElementGuid>3f13d4c7-b849-460d-8d8f-5e0ceb0575b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Registre des actes administratifs')]</value>
+      <webElementGuid>8a0f4f43-72bc-44e3-98dd-1bcd7551da5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marchés publics'])[1]/following::a[1]</value>
+      <webElementGuid>a53b1eea-e7f7-45ce-aaee-0c2695bddc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plan du site'])[1]/preceding::a[1]</value>
+      <webElementGuid>a2cab3ea-8d8f-4e8e-ba48-ff7739671e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1.2.3 - © LADOM 2024'])[1]/preceding::a[8]</value>
+      <webElementGuid>dbb02242-c025-410a-9a56-b1ac7466a48d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Registre des actes administratifs']/parent::*</value>
+      <webElementGuid>d0389fdc-0fb5-4404-a054-4549e936c6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ladom.fr/registre-administratif/')]</value>
+      <webElementGuid>f2ce3552-2b85-4321-90a0-bf2f97ee0494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div[4]/a</value>
+      <webElementGuid>bbfc00eb-b6f2-4f9c-b674-d8dcc476450a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ladom.fr/registre-administratif/' and (text() = 'Registre des actes administratifs' or . = 'Registre des actes administratifs')]</value>
+      <webElementGuid>c18a9a5f-ac50-4263-bb41-3e576019492e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

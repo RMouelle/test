@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mentions_legales</name>
+   <tag></tag>
+   <elementGuidId>27239377-16c3-48db-a548-282c86e84e61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Mentions légales')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d4ee2ac-754a-4edf-8bf2-4ea6d2144d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ladom.fr/mentions-legales/</value>
+      <webElementGuid>75f4f03d-1fc9-49f3-965e-5228648aab8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-6</value>
+      <webElementGuid>79150308-0adb-46b6-a7a9-5dec23650923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mentions légales</value>
+      <webElementGuid>bcdbf2ae-6de8-4552-9ee6-99cc8fcbb570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gapx-4 border-b border-gray-400 text-gray-600 text-lg py-8&quot;]/div[@class=&quot;flex flex-col&quot;]/a[@class=&quot;mb-6&quot;]</value>
+      <webElementGuid>a0d61ef3-4b19-4dd3-b4b0-e7ae1ef9044b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mentions légales')]</value>
+      <webElementGuid>d37378d6-b722-45c8-9842-2750a12384e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[3]/following::a[1]</value>
+      <webElementGuid>06817848-03fc-41a7-bfc3-5daf692282ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Je me connecte'])[1]/following::a[2]</value>
+      <webElementGuid>30a91f35-0199-430a-95cb-557a5ae63bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charte de Protection des données des bénéficiaires'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8066d62-5d60-489e-8034-461dd20de5f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Espace Presse'])[1]/preceding::a[2]</value>
+      <webElementGuid>70600ce1-9191-4270-8e6c-0980a6d9605e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mentions légales']/parent::*</value>
+      <webElementGuid>bd4a331d-2cb6-44f3-9efb-d7071ccdcd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ladom.fr/mentions-legales/')]</value>
+      <webElementGuid>34a2c08a-82aa-4c8a-9c88-613351a1a350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/a[2]</value>
+      <webElementGuid>0219d32f-0ec9-4ddb-8138-8848e0a52b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ladom.fr/mentions-legales/' and (text() = 'Mentions légales' or . = 'Mentions légales')]</value>
+      <webElementGuid>bc379ec6-311e-4760-922a-27703b1d1e89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

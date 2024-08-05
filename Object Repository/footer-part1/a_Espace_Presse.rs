@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Espace_Presse</name>
+   <tag></tag>
+   <elementGuidId>0de37745-0e79-405e-be2c-461c3e02772d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Espace Presse')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d702ea6c-44de-4abf-a009-84ae30dae999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ladom.fr/reportage-interview/</value>
+      <webElementGuid>c4426958-382b-4b56-b609-0744d833863c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-6</value>
+      <webElementGuid>d593e7cb-4b29-4028-a0e0-d2873c638487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Espace Presse</value>
+      <webElementGuid>2590f5dd-c29b-4bad-bc30-2a0450f73e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gapx-4 border-b border-gray-400 text-gray-600 text-lg py-8&quot;]/div[@class=&quot;flex flex-col&quot;]/a[@class=&quot;mb-6&quot;]</value>
+      <webElementGuid>ed1c6d81-4203-4b57-8ed5-290f63cd3085</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Espace Presse')]</value>
+      <webElementGuid>b1729b09-7235-49c1-949d-1d63a2e4a4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charte de Protection des données des bénéficiaires'])[1]/following::a[1]</value>
+      <webElementGuid>21248da3-affa-4f88-a887-f269608db9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mentions légales'])[1]/following::a[2]</value>
+      <webElementGuid>575d62e2-7722-4e08-8e7a-54a6e2abb0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marchés publics'])[1]/preceding::a[2]</value>
+      <webElementGuid>2c41491a-cab6-422c-8eec-9c78870e9f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Espace Presse']/parent::*</value>
+      <webElementGuid>7aeb924b-0ce0-4a95-a25c-444053610722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ladom.fr/reportage-interview/')]</value>
+      <webElementGuid>61505cb0-be24-4e4d-8e94-c498f012cf77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div[2]/a[2]</value>
+      <webElementGuid>569802ea-fcd6-44ee-9983-5d86cd1dbf8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ladom.fr/reportage-interview/' and (text() = 'Espace Presse' or . = 'Espace Presse')]</value>
+      <webElementGuid>776b74c8-f2ac-4b40-8b04-11163141b5fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
