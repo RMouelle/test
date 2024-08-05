@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>e0dac829-7907-41c3-a79d-17085d6dc201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[@title='x_header'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ml-8 > img[title=&quot;x_header&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>729d839e-3a2d-4e34-a0ac-2764835cca21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>x_header</value>
+      <webElementGuid>73e642d0-8e5a-4ee7-85cd-b403cc600c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/social/x_header.svg</value>
+      <webElementGuid>5dc8afad-a4ac-4e60-a9a1-3dfcab00f7fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[@class=&quot;bg-[#f2f2f2] py-12&quot;]/div[@class=&quot;px-4&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 items-center py-6&quot;]/div[@class=&quot;flex items-center justify-around md:justify-end&quot;]/a[@class=&quot;ml-8&quot;]/img[1]</value>
+      <webElementGuid>5cb98308-bc8b-4b3b-a04e-347f9c95367d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@title='x_header'])[2]</value>
+      <webElementGuid>1980284c-2d50-4e05-95c3-fe96718a41e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[3]/img</value>
+      <webElementGuid>a5ed6a51-92df-421e-aebb-c6693ed72e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@title = 'x_header' and @src = '/social/x_header.svg']</value>
+      <webElementGuid>cbfb8773-9a60-414c-a769-c3e740f08e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
