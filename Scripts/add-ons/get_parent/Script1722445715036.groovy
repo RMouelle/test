@@ -23,7 +23,7 @@ import org.openqa.selenium.Keys as Keys
 String path = obj.findXpathValue('xpath:position')
 
 if(path == null) {
-	throw new TestFailedException("Bbchou")
+	throw new TestFailedException("Unable to get path from object!")
 }
 
 TestObject parent = new TestObject('parent')
